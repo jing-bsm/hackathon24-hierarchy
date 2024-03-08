@@ -1,0 +1,5 @@
+id,parent_id
+N1,N5
+N2,N1
+N3,N2
+N4,N3

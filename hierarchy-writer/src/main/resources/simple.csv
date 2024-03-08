@@ -1,0 +1,12 @@
+id,store_name,level,parent_id,email,store_state,store_city,store_address1,store_address2,store_mgr_name,store_type,store_zip
+R_4,Central Stores,REGION,C_1,abc@123.com,FL,Camarillo,2855 STEVENS CREEK BLVD,SUITE 631,Brian Altadonna,Flagship,53160
+13,1 CDC Company 58/STANFORD SHOPPING,STORE,R_2,1abc@123.com,FL,McLean,359 STANFORD SHOPPING CENTER,SUITE 61,Liam Caldwell,Retail,19466
+14,1 QZ Company 58,STORE,R_2,1abc@123.com,TX,Chicago,789 Oak Lane,SUITE 31,Alex Sterling,Retail,19466
+15,1 OC York,STORE,R_2,1abc@123.com,CL,Phoenix,202 Maple Drive,SUITE 231,Chris Matulovich,Retail,19467
+3,CDC Company 58/STANFORD SHOPPING,STORE,R_2,abc@123.com,FL,McLean,808 Redwood Street,SUITE 631,Mason Blackwell,Retail,19468
+4,QZ Company 58,STORE,R_2,abc@123.com,OH,Houston,404 Birch Court,SUITE 631,Owen Donovan,Retail,19469
+5,OC York,STORE,R_2,abc@123.com,FL,McLean,808 Redwood Street,SUITE 331,Isabella Hale,Retail,19470
+1,ABC Company 56/STANFORD SHOPPING,STORE,R_4,xabc@123.com,MI,Houston,505 Walnut Boulevard,APP 631,Lily Falconer,Retail,19471
+2,XYZ Company 57/STANFORD SHOPPING,STORE,R_4,yabc@123.com,FL,Houston,359 STANFORD SHOPPING CENTER,APP 61,Chris Matulovich,Retail,19466
+C_1,ABC Company,CHAIN,,abc@123.com,CA,Aventura,6000 WEST GLADES ROAD,APP 31,Logan Whitman,Flagship,95052
+R_2,East Coast Stores,REGION,C_1,abc@123.com,FL,Camarillo,2855 STEVENS CREEK BLVD,APP 231,Brian Altadonna,Flagship,53160

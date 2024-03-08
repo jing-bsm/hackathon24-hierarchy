@@ -1,0 +1,6 @@
+id,parent_id
+ROOT,
+N1,N4
+N2,N1
+N3,N2
+N4,N3
